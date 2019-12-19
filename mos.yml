@@ -18,6 +18,9 @@ tags:
 filesystem:
   - fs
 
+sources:
+  - src
+
 libs:
   - origin: https://github.com/mongoose-os-libs/js-demo-bundle
   - origin: https://github.com/mongoose-os-libs/arduino-ds3231
